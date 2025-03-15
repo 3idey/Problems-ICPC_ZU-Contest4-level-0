@@ -1,0 +1,1 @@
+{"name":"Local: A_Family_Generations","url":"/mnt/d/New folder/contest/A_Family_Generations.cpp","tests":[{"id":1742045363144,"input":"9 4\n-2--4---6\n1\n2\n3\n4","output":"2\n4\n6\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/d/New folder/contest/A_Family_Generations.cpp","group":"local","local":true}

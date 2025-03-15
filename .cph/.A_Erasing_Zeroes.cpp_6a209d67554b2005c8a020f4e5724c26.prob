@@ -1,0 +1,1 @@
+{"name":"Local: A_Erasing_Zeroes","url":"/mnt/d/New folder/contest/A_Erasing_Zeroes.cpp","tests":[{"id":1741988098954,"input":"3\n010011\n0\n1111000","output":"2\n0\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/d/New folder/contest/A_Erasing_Zeroes.cpp","group":"local","local":true}
